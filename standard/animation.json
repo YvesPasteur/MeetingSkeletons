@@ -1,24 +1,4 @@
 {
   "title": "Animation : SUBJECT",
-  "details": "
-
-Agenda
-
-Point 1
-Point 2
-
-Attendees and roles
-
-@Guy D decide
-@Luc D observe
-
-To prepare
-
-
-Meeting Structure
-- Brief
-- First point
-- Second point
-- Next steps
-"
+  "details": "Agenda\nPoint 1\nPoint 2\n\nAttendees and roles\n\n@Guy D decide\n@Luc D observe\n\nTo prepare\n\n\nMeeting Structure\n- Brief\n- First point\n- Second point\n- Next steps"
 }
